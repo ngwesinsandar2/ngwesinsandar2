@@ -1,6 +1,7 @@
 - 👋 Hi, I’m ngwe_sin_sandar
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning JavaScript language including its library React
+- 😍 I'm in love with JavaScript language and its framework React and Vue. I love React's framework Nextjs most.
+- 🌱 I’m currently learning PHP language to be a fullstack dev.
 - 💞️ I’m looking to collaborate with web developers
 - 📫 How to reach me https://ngwesinsandar2.github.io/ngwe_sin_sandar/
 
