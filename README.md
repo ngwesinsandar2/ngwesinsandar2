@@ -3,7 +3,7 @@
 - 😍 I'm in love with JavaScript language and its framework React and Vue. I love React's framework Nextjs most.
 - 🌱 I’m currently learning PHP language to be a fullstack dev.
 - 💞️ I’m looking to collaborate with web developers
-- 📫 How to reach me https://ngwesinsandar2.github.io/ngwe_sin_sandar/
+- 📫 How to reach me https://ngwesinsandarnext.vercel.app/en
 
 <!---
 ngwesinsandar2/ngwesinsandar2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
