@@ -1,4 +1,4 @@
-- 👋 Hi, I’m ngwe_sin_sandar
+- 👋 Hi, I’m ngwe-sin-sandar
 - 👀 I’m interested in coding
 - 😍 I'm in love with JavaScript language and its framework React and Vue. I love React's framework Nextjs most.
 - 🌱 I’m currently learning PHP language to be a fullstack dev.
